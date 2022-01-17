@@ -5,3 +5,6 @@
 
 1、【leetcod141】 环形链表 https://github.com/kicy-blue/algorithm/issues/1
 
+2、反转链表 https://github.com/kicy-blue/algorithm/issues/1
+
+
